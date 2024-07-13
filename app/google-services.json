@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "972785006309",
+    "project_id": "baseappdesign",
+    "storage_bucket": "baseappdesign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972785006309:android:2b4619597302e9ccdf860c",
+        "android_client_info": {
+          "package_name": "com.cloffygames.baseappdesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972785006309-6stdsffr217p698if6reioroevucehh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloffygames.baseappdesign",
+            "certificate_hash": "779fdfbfb9bc2b031f9f3927dad824a23d359fd3"
+          }
+        },
+        {
+          "client_id": "972785006309-5hfgee9krtb8gg2vafisj1jjmqjje3kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiPv_t2qFxFPissmKGtR8evHzQbKENP2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972785006309-5hfgee9krtb8gg2vafisj1jjmqjje3kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
